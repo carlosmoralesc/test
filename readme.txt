@@ -31,6 +31,9 @@ Installation finished. Bricks will be ready at http://<your_ip>/bricks/
 
 ==Upgrading==
 
+
+
+
 Copy the contents of this directory on to the existing Bricks installation directory.
 
 
